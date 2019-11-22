@@ -11,3 +11,4 @@ make prefix=/usr/local install
 
 git version
 which git
+
