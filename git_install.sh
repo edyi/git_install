@@ -9,5 +9,8 @@ cd git-2.24.0
 make prefix=/usr/local all
 make prefix=/usr/local install
 
+echo ""
+echo "-----"
 git version
 which git
+echo "-----
