@@ -13,4 +13,4 @@ echo ""
 echo "-----"
 git version
 which git
-echo "-----
+echo "-----"
